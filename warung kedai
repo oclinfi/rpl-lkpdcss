@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Kedai Nusantara - Artikel & Menu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+  <section id="artikel" class="seksi-artikel">
+    <h1>Kedai Nusantara</h1>
+    <p class="deskripsi-artikel">
+      Kedai Nusantara hadir sebagai destinasi kuliner favorit yang menyajikan cita rasa otentik khas Indonesia dengan harga yang sangat ramah di kantong, yaitu berkisar antara Rp 5.000 hingga Rp 25.000. Tempat ini menggabungkan kehangatan warung tradisional dengan kenyamanan modern, menjadikannya pilihan tepat untuk makan siang maupun berkumpul santai.
+    </p>
+    <p>Berikut adalah daftar menu andalan pilihan yang siap memanjakan lidah Anda:</p>
+  </section>
+
+  <section id="menu" class="daftar-menu">
+    <h2>Menu Makanan</h2>
+    <ul>
+      <li><span class="nama-item">Nasi Goreng Spesial</span> (Rp 20.000): <span class="detail-item">Hidangan nasi goreng kaya rempah dengan topping telur dan pelengkap yang menggugah selera.</span></li>
+      <li><span class="nama-item">Mie Goreng Jawa</span> (Rp 18.000): <span class="detail-item">Racikan mie tradisional dengan perpaduan rasa manis dan gurih yang pas di lidah.</span></li>
+      <li><span class="nama-item">Ayam Bakar</span> (Rp 25.000): <span class="detail-item">Daging ayam empuk dengan bumbu meresap sempurna dan aroma bakaran yang khas.</span></li>
+    </ul>
+
+    <h2>Menu Minuman</h2>
+    <ul>
+      <li><span class="nama-item">Es Teh Manis</span> (Rp 5.000): <span class="detail-item">Kesegaran klasik yang selalu cocok menjadi pendamping segala jenis hidangan.</span></li>
+      <li><span class="nama-item">Kopi Hitam</span> (Rp 8.000): <span class="detail-item">Seduhan kopi mantap dengan aroma kuat untuk membangkitkan energi Anda.</span></li>
+      <li><span class="nama-item">Jus Alpukat</span> (Rp 12.000): <span class="detail-item">Olahan buah alpukat segar yang kental, manis, dan kaya nutrisi.</span></li>
+    </ul>
+  </section>
+
+</body>
+</html>

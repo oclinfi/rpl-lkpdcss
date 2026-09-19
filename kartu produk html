@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>3 Kartu Produk</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1 class="judul-halaman">Katalog Produk Alat Tulis</h1>
+
+  <!-- Kartu Produk 1 -->
+  <div class="kartu-produk">
+    <h2>Buku Tulis A5</h2>
+    <p class="harga">Rp 12.000</p>
+    <p class="deskripsi">Buku tulis isi 50 lembar.</p>
+  </div>
+
+  <!-- Kartu Produk 2 -->
+  <div class="kartu-produk">
+    <h2>Pulpen Gel Hitam</h2>
+    <p class="harga">Rp 5.000</p>
+    <p class="deskripsi">Pulpen tinta gel.</p>
+  </div>
+
+  <!-- Kartu Produk 3 -->
+  <div class="kartu-produk">
+    <h2>Pensil 2B</h2>
+    <p class="harga">Rp 3.500</p>
+    <p class="deskripsi">Pensil.</p>
+  </div>
+
+</body>
+</html>

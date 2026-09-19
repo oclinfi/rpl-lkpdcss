@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Biodata Diri</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1 id="judul-biodata">Biodata Diri</h1>
+
+  <div class="kartu-biodata">
+    <p><span class="label">Nama:</span> Radine Dygtastya Rahmadhani</p>
+    <p><span class="label">Kelas:</span> X TKJ 3</p>
+    <p><span class="label">Hobi:</span> Travelling</p>
+    <p><span class="label">Motto Hidup:</span> Tetap belajar dan pantang menyerah.</p>
+  </div>
+
+</body>
+</html>
